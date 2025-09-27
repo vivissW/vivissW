@@ -1,5 +1,5 @@
 # *Olá Mundo! Meu nome é Vitória ^_^*
-<img align="right" alt="vivissW-boneca" src="https://github.com/user-attachments/assets/a3294c0d-1a13-4520-a0f3-8437ee9c3ef0" width="200">
+<img align="right" alt="vivissW-boneca" src="https://github.com/user-attachments/assets/a3294c0d-1a13-4520-a0f3-8437ee9c3ef0" width="190">
 
 
 💻  Estudante de **Análise e Desenvolvimento de Sistemas**  
