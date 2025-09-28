@@ -1,4 +1,4 @@
-# *Olá Mundo! Meu nome é Vitória ^_^*
+<h1 align="center" style="color:#FFC0CB;"><em>Hello World! My name is Vitória ⭐</em></h1>
 <img align="right" alt="vivissW-boneca" src="https://github.com/user-attachments/assets/a3294c0d-1a13-4520-a0f3-8437ee9c3ef0" width="190">
 
 
