@@ -4,7 +4,7 @@
 
 💻  Estudante de **Análise e Desenvolvimento de Sistemas**  
 🎓 Bolsista ProUni na Estácio | Certificada pelo SENAI em Redes   
-🌱 Atualmente aprendendo **JavaScript, Python e IA**       
+🌱 Atualmente aprendendo **JavaScript, Python, C++ e IA**       
 ✨ Apaixonada por criar projetos que misturam **código + criatividade**      
 🔒 Interessada em Segurança da Informação e Desenvolvimento de Software    
 📚 Curiosa e dedicada a aprender e inovar.
